@@ -239,4 +239,4 @@ This repository serves as the official landing page for SubRip. The software is 
 **Get the most recent version of SubRip today!**
 
 ---
-**Last updated:** 2026-10-31 08:19:40 UTC
+**Last updated:** 2026-10-31 15:00:25 UTC
